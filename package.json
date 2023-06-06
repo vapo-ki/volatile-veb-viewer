@@ -28,7 +28,8 @@
     ]
   },
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "three": "^0.153.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.2",
