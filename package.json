@@ -1,6 +1,6 @@
 {
-  "name": "starter-react-app",
-  "version": "0.1.0",
+  "name": "volatile-veb-viewer",
+  "version": "0.1",
   "private": true,
   "scripts": {
     "start": "node server.js",
