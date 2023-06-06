@@ -1,9 +1,10 @@
 import './App.css';
+import Viewer from './modules/Viewer';
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World!</h1>
+      <Viewer />
     </div>
   );
 }
